@@ -5,7 +5,7 @@ import { FaRegEye } from "react-icons/fa6";
 import toast from "react-hot-toast";
 
 import Axios from "../utils/Axios";
-import SummaryApi from "../common/summaryApi";
+import SummaryApi from "../common/SummaryApi";
 import AxiosToastError from "../utils/AxiosToastError";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 
