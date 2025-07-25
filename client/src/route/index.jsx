@@ -20,9 +20,10 @@ import AdminPermision from "../layout/AdminPermision";
 import ProductListPage from "../pages/ProductListPage";
 import ProductDisplayPage from "../pages/ProductDisplayPage";
 import CartMobile from "../pages/CartMobile";
-import CheckOutPage from "../pages/CheckOutPage";
+
 import Success from "../pages/Success";
 import Cancel from "../pages/Cancel";
+import CheckOutPage from "../pages/CheckOutPage";
 
 const router = createBrowserRouter([
   {
